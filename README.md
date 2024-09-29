@@ -3,6 +3,7 @@
 Computer Science Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif">
 - 🔭 Here's my [portfolio](https://d2zns2v7l68eb2.cloudfront.net)
+- 🚩 Technical Trainee @ZOHO
 - 🎯 Think twice, code once !!
 - 🎓 Currently mastering advanced data structures and algorithms                                              
 - 🧠 Always curious about new tech trends and innovations
